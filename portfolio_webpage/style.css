@@ -1,0 +1,15 @@
+body{
+    background-color: pink;
+    margin:0;
+    padding:0;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size:1em;
+}
+a:visited{
+    color:rgb(0, 0, 0);
+}
+a:hover{
+    font-size:1.5em;
+}
